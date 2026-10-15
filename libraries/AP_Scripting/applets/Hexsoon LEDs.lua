@@ -32,7 +32,7 @@ local green = {0,   255, 0}
 -- local blue =  {0,   0,   255}
 
 -- led map giving the colour for the LEDs plugged in
-local led_map = {red, red, green, green}
+local led_map = {green, red, green, red}
 
 -- number of ms to strobe white, can be 0 for no strobe
 -- strobe only active when armed
